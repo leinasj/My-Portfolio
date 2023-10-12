@@ -1,5 +1,5 @@
 <p align=”center”>
-![](https://github.com/leinasj/My-Portfolio/assets/30936021/da9dde76-8d38-4c06-80cd-c543c6ddd1f0|width =200)
+![img|200x200](https://github.com/leinasj/My-Portfolio/assets/30936021/da9dde76-8d38-4c06-80cd-c543c6ddd1f0)
 
 </p>
 ## My-Portfolio
