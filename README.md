@@ -1,7 +1,5 @@
-<p align=”center”>
-![img|200x200](https://github.com/leinasj/My-Portfolio/assets/30936021/da9dde76-8d38-4c06-80cd-c543c6ddd1f0)
+<img src="https://github.com/leinasj/My-Portfolio/assets/30936021/da9dde76-8d38-4c06-80cd-c543c6ddd1f0" width="200">
 
-</p>
 ## My-Portfolio
 Portfolio of my Data Analysis Projects/Notebooks
 
