@@ -1,6 +1,5 @@
 <p align=”center”>
-
-<a <img width=”200" height=”200" src=”https://github.com/leinasj/My-Portfolio/assets/30936021/da9dde76-8d38-4c06-80cd-c543c6ddd1f0" alt=”my banner”></a>
+![banner](https://github.com/leinasj/My-Portfolio/assets/30936021/da9dde76-8d38-4c06-80cd-c543c6ddd1f0 =200x200)
 
 </p>
 ## My-Portfolio
