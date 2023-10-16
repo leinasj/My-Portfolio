@@ -4,7 +4,7 @@
 Portfolio of my Data Analysis Projects/Notebooks
 
 ## About Me
-Background in Biochemistry, protein assay development/testing and characterization. Enthusiastic analyst that loves to dig deeper into data, letting the data tell its story. I'm a learner that approaches new challenges/technologies head first and ask questions of how this can improve my technical toolbelt.
+Background in Biochemistry, protein assay development/testing and characterization. Enthusiastic analyst that loves to dig deeper into data, letting the data tell its story. I'm a learner that approaches new challenges/technologies head on and asks questions of how this can improve my own technical toolbelt and community.
 
 ## Databases
 ![](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
