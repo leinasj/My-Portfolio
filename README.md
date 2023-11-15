@@ -29,7 +29,7 @@ Background in Biochemistry, protein assay development/testing and characterizati
 
 ## What I'm currently working on
 - Tuning MLB Playoff Prediction Models for 2023 season outcomes
-- Google Data Analytics Professional Certificate (Coursera)
+- Creating Air Pollutant Dashboard of Los Angeles County (Streamlit)
 - Learning Terraform/Ansible (IaC)
 
 ## Hobbies/Interests
