@@ -29,7 +29,7 @@ Background in Biochemistry, protein assay development/testing and characterizati
 
 ## What I'm currently working on
 - Tuning MLB Playoff Prediction Models for 2023 season outcomes
-- Creating Air Pollutant Dashboard of Los Angeles County (Streamlit)
+- Creating Air Pollutant Dashboard of Los Angeles County using Streamlit (https://github.com/leinasj/Pollution_Dashboard_LA_County)
 - Learning Terraform/Ansible (IaC)
 
 ## Hobbies/Interests
